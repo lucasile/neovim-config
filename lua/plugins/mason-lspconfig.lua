@@ -12,6 +12,13 @@ return {
 			ensure_installed = {
 				"lua_ls",
 				"copilot",
+				"svelte",
+				"vtsls",
+				"tailwindcss",
+				"cssls",
+				"html",
+				"basedpyright",
+				"ruff",
 			},
 		},
 
